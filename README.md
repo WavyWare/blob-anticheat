@@ -22,7 +22,7 @@ npm run build # you can in package.json disable option "--watch" if you dont wan
 
 npm run start
 ```
-If you want you can adjust testing values such as number of flips or amount, blobs in test or percent of cheater by editing `src/test.ts`. For example, you can edit this using Neovim:
+If you want you can adjust testing values such as number of flips, amount of blobs in test or percent of cheater by editing `src/test.ts`. For example, you can edit this using Neovim:
 ```shell
 nvim src/test.ts # ":wq" to save and close
 ```
