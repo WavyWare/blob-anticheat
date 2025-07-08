@@ -15,6 +15,8 @@ To install it you have to clone it from this repo, using this command:
 git clone https://github.com/WavyWare/blob-anticheat.git
 
 cd blob-anticheat
+
+npm i
 ```
 Once you have this downloaded you need to build it and run it with Node.js:
 ```shell
