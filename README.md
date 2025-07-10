@@ -20,7 +20,8 @@ npm i
 ```
 Once you have this downloaded you need to build it and run it with Node.js:
 ```shell
-npm run build # you can in package.json disable option "--watch" if you dont want it to be running constantly
+npm run build
+# you can in package.json disable option "--watch" if you dont want it to be running constantly
 
 npm run start
 ```
